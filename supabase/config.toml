@@ -1,7 +1,0 @@
-project_id = "bktvddjljjmgqvfzvjfo"
-
-[functions]
-# import_map = "supabase/functions/import_map.json"
-
-[functions.make-server-47a8cd60]
-verify_jwt = false
