@@ -1,5 +1,5 @@
-// src/App.tsx
-import HomePage from "./components/HomePage"; // HomePage src/components içindeyse
+import React from 'react';
+import HomePage from '@pages/HomePage';
 
 export default function App() {
   return <HomePage />;

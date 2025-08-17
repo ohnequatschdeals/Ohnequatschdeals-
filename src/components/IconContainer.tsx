@@ -1,5 +1,5 @@
 import React from 'react';
-import { cn } from '../ui/utils';
+import { cn } from '@/utils';
 
 interface IconContainerProps extends React.HTMLAttributes<HTMLDivElement> {
   variant?: 'pink' | 'turquoise' | 'gold' | 'gradient';
